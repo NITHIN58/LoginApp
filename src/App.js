@@ -19,7 +19,7 @@ const App = () => {
     <div>
      <BrowserRouter>
         <Routes>
-          <Route path="/" element={<Login />} />
+          <Route path="/LoginApp/" element={<Login />} />
           <Route path="/home" element={<Home />} />
           {/* <Route path="/task" element={<Task />} /> */}
           <Route path="/user" element={<User />} />
