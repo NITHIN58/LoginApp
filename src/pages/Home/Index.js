@@ -14,7 +14,7 @@ const Home = () => {
   }, [loggedIn]);
 
   if (!loggedIn) {
-    return <Link to="/" />;
+    return <Link to="/LoginApp/" />;
   }
 
   return (

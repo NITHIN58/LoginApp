@@ -12,7 +12,7 @@ const User = () => {
   };
 
   if (islogout) {
-    return navigate("/");
+    return navigate("/LoginApp/");
   }
     return (
       <div>

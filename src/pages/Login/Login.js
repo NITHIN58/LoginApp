@@ -103,7 +103,7 @@ const Login = () => {
     
       </div>
       <div className="card text-success  text-center mt-4" style={{ width: "350px", margin: "0 auto" }}>
-        username="admin@example.com " password="123"
+        username="admin@example.com " password="pass@123"
       </div>
     </div>
   );

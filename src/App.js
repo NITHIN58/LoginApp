@@ -9,10 +9,6 @@ import Home from "./pages/Home/Index";
 import User from "./pages/user/User";
 
 
-//import Home from "./pages/Home/Home";
-//import Task from "./pages/Task/Task";
-//import User from "./pages/User/User";
-//import Changepassword from "./pages/User/Changepassword";
 
 const App = () => {
   return (
@@ -20,10 +16,8 @@ const App = () => {
      <BrowserRouter>
         <Routes>
           <Route path="/LoginApp/" element={<Login />} />
-          <Route path="/home" element={<Home />} />
-          {/* <Route path="/task" element={<Task />} /> */}
-          <Route path="/user" element={<User />} />
-          {/* <Route path="/changepassword" element={<Changepassword />} /> */}
+          <Route path="/LoginApp/home" element={<Home />} />
+          <Route path="/LoginApp/user" element={<User />} />
         </Routes>
         </BrowserRouter>
     </div>
