@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/LoginApp/static/css/main.bdd1664b.css",
-    "main.js": "/LoginApp/static/js/main.363fd6f6.js",
+    "main.js": "/LoginApp/static/js/main.b452af86.js",
     "static/js/787.7f7dca02.chunk.js": "/LoginApp/static/js/787.7f7dca02.chunk.js",
     "static/media/backgorund.jpg": "/LoginApp/static/media/backgorund.9444aa3959ff576bd666.jpg",
     "index.html": "/LoginApp/index.html",
     "main.bdd1664b.css.map": "/LoginApp/static/css/main.bdd1664b.css.map",
-    "main.363fd6f6.js.map": "/LoginApp/static/js/main.363fd6f6.js.map",
+    "main.b452af86.js.map": "/LoginApp/static/js/main.b452af86.js.map",
     "787.7f7dca02.chunk.js.map": "/LoginApp/static/js/787.7f7dca02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bdd1664b.css",
-    "static/js/main.363fd6f6.js"
+    "static/js/main.b452af86.js"
   ]
 }
