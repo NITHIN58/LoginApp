@@ -30,7 +30,7 @@ const Login = () => {
   submitForm = (e) => {
     e.preventDefault();
     // login security
-    if (email === "admin@example.com" && password === "123") {
+    if (email === "admin@example.com" && password === "pass@123") {
       localStorage.setItem("token", "Nithin12345");
       setLoggedIn(true);
     }
