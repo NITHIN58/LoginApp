@@ -31,7 +31,7 @@ const Navbar = () => {
               >
                 <NavLink
                   exact
-                  to="/home"
+                  to="/LoginApp/home"
                   className="nav-link main-nav"
                   activeClassName="main-nav-active"
                 >
@@ -44,7 +44,7 @@ const Navbar = () => {
               >
                 <NavLink
                   exact
-                  to="/task"
+                  to="/LoginApp/home"
                   className="nav-link main-nav"
                   activeClassName="main-nav-active"
                 >
@@ -56,7 +56,7 @@ const Navbar = () => {
                 style={{ marginLeft: "20px", marginRight: "20px" }}
               >
                 <NavLink
-                  to="/user"
+                  to="/LoginApp/user"
                   className="nav-link main-nav"
                   activeClassName="main-nav-active"
                 >

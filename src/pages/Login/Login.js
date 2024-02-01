@@ -40,7 +40,7 @@ const Login = () => {
   };
 
   if (loggedIn) {
-    return navigate("/home");
+    return navigate("/LoginApp/home");
   }
 
   return (
